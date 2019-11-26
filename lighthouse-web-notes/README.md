@@ -5,4 +5,4 @@ This repository contains all of the notes taken by [Anisa](https://github.com/An
 
 ### Table of Contents
 * [Week 1](/Week_1)
-  * [Day 1](/Week_1/Day_1)
+  * [Day 1](/Week_1/Day_1)# lighthouse-web-notes
